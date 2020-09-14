@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about data science, backend development, algorithms ...
 - 📫 How to reach me: Check out my personal website
 - ⚡ Fun fact: I love graph theory ...
+
+[![Exquisition's github stats](https://github-readme-stats.vercel.app/api?username=Exquisition)](https://github.com/Exquisition/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Exquisition)](https://github.com/Exquisition/github-readme-stats)
