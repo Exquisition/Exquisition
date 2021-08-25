@@ -14,7 +14,7 @@ Open for job 💼 opportunities starting 2022 !
 
 ### project ideas
 - web automation
-- data science with forbes billionaire dataset
+- data science with forbes datasets
 - write a book perhaps..
 
 [![Exquisition's github stats](https://github-readme-stats.vercel.app/api?username=Exquisition&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=solarized-dark)](https://github.com/Exquisition/github-readme-stats)
