@@ -8,9 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-Slowly but surely getting there 💪
-
-Currently occupied with internship + course, looking complete some cool projects on automation, web scraping and more in the near future.
+Open for job 💼 opportunities starting 2022 !
 
 
 [![Exquisition's github stats](https://github-readme-stats.vercel.app/api?username=Exquisition&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=solarized-dark)](https://github.com/Exquisition/github-readme-stats)
