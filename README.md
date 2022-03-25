@@ -8,9 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-Recent Engineering graduate with 2+ years of experience at various companies in finance and tech. 
-
-Open for job 💼 opportunities starting 2022 !
+My github is undergoing overhaul currently.
 
 ### project ideas
 - web automation
